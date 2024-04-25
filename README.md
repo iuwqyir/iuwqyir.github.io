@@ -57,5 +57,5 @@ This work is published under [MIT][mit] License.
 
 ## run local server
 ```
-bundle exec jekyll s
+bundle exec jekyll s --livereload
 ```
