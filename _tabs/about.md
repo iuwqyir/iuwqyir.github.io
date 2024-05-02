@@ -63,7 +63,7 @@ Full Stack Software Engineer
 - Lead several new features, e.g. logs search, AppSync logs ingestion, automated infrastructure insights etc.
 - Built an admin panel for internal use.
 - Many high-impact code and infrastructure improvements. For example, reduced our Lambda costs by up to 30% by removing redundant executions. In another case, took the initiative to reduce a microservice's error rate by more than 1000%.
-- Implemented Shape Up working methodology by Basecamp
+- Implemented [Shape Up](https://basecamp.com/shapeup){:target="_blank"} working methodology by Basecamp
 - Completed an AWS certification and learned to use a large number of AWS services.
 - Improved my teamwork skills and my ability to write code that is reliable and scalable.
 
