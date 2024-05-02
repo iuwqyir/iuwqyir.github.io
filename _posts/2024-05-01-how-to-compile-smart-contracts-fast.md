@@ -1,6 +1,6 @@
 ---
 title: How to compile EVM smart contracts fast in NodeJS… but it's actually Rust?
-date: 2024-05-02 16:00:00 +0300
+date: 2024-05-01 16:00:00 +0300
 categories: [Web3, Smart Contracts]
 tags: [evm, nodejs, rust, compilation]
 ---
@@ -249,6 +249,6 @@ We'll use `find_or_install_svm_version` to handle all possible Solidity compiler
 
 ---
 
-Awesome, in this article you just learned how to compile a smart contract in Rust. In the next part, we'll look at how to run this Rust code in NodeJS.
+Awesome, in this article you just learned how to compile a smart contract in Rust. [In the next part]({% post_url 2024-05-02-how-to-run-rust-within-nodejs %}), we'll look at how to run this Rust code in NodeJS.
 
 All the code is available on my [Github](https://github.com/iuwqyir/evm-smart-contract-compiler/tree/compile_contract_in_rust){:target="_blank"}.

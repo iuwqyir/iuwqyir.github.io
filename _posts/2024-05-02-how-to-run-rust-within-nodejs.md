@@ -1,6 +1,6 @@
 ---
 title: How to run Rust code within NodeJS
-date: 2024-05-01 16:00:00 +0300
+date: 2024-05-02 16:00:00 +0300
 categories: [Web3, Smart Contracts]
 tags: [nodejs, rust]
 ---
@@ -13,7 +13,7 @@ So if you're working on optimizing a core part of your product, but your service
 
 ---
 
-_This is the second part of a 2-part blog post. If you want to check out how we got the Rust code we'll be working with, [check out part 1]({% post_url 2024-05-02-how-to-compile-smart-contracts-fast %})._
+_This is the second part of a 2-part blog post. If you want to check out how we got the Rust code we'll be working with, [check out part 1]({% post_url 2024-05-01-how-to-compile-smart-contracts-fast %})._
 
 ## How did we do it?
 We used Napi-RS, which is a great library. It's easy to use and actively maintained. Let's actually run the smart contract compilation code we wrote in Rust, in NodeJS.
