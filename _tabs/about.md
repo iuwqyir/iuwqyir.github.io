@@ -32,10 +32,11 @@ Senior Software Engineer
 - Creating and managing cloud infrastructure running on Kubernetes.
 
 **Key achievements**
-- Built a custom project-based authentication flow using Supabase Auth. It also included a system of API keys.
-- Developed a feature with an SDK to catch and analyze client-side errors when interacting with the blockchain.
-- Designed and implemented a metrics pipeline using TimescaleDB. Everything from reading the blockchain data, extracting and saving metrics from it, and reading it in the UI.
 - Transaction explorer - built a public feature of Blocktorch, similar to Etherscan, but better. It was featured in an Alchemy course focused on Account Abstraction.
+- Built a transaction debugger and simulator for any chain with an RPC connection.
+- Built a custom project-based authentication flow using Supabase Auth. It also included a system of API keys.
+- Designed and implemented a metrics pipeline using TimescaleDB. Everything from reading the blockchain data, extracting and saving metrics from it, and reading it in the UI.
+- Developed a feature with an SDK to catch and analyze client-side errors when interacting with the blockchain.
 - Created and enforced code style rules and best practices with the team to improve our workflow.
 - As an engineer in a very early-stage start-up, I learned to be extra fast, cut necessary corners, and be efficient in testing new ideas. 
 
@@ -217,6 +218,7 @@ mindmap
       NoSQL
         DynamoDB
         MongoDB
+        ElasticSearch
       Relational
         PostgreSQL
         MySQL
