@@ -9,7 +9,7 @@ Hey, I'm Toomas 👋
 
 I love building cool stuff. Since the physical world can be limiting, I prefer to use a keyboard instead of a hammer and nails (although sometimes you need to touch grass). And I created this site to document any interesting problems I come across while building. Mainly for processing and solidifying them in my mind. But if anyone else finds them helpful, that's great. I have had the idea to do this for a long time and just now got around to it, so I have a lot of catch-up to do... or I'll just write them as they come, let's see.
 
-I have over 8 years of software engineering experience, during which I've built e-commerce sites, dev tools, NFT projects and much more. But I am always hungry to do more. Anyways, I have outlined all of my experience on this page, so give it a read. It has [my work experience](#work-experience), [my side projects](#projects), [hackaton projects](#hackatons), [education](#education) and [skills](#skills).  
+I have over 8 years of software engineering experience, during which I've worked on dev tooling, NFT projects, payment systems, e-commerce sites and much more. But I am always hungry to do more. I have outlined my experience on this page into sections: [my work experience](#work-experience), [my side projects](#projects), [hackaton projects](#hackatons), [education](#education) and [skills](#skills).  
 
 > If you prefer a more old-school resume, [I've got you covered]({% link assets/toomas-oosalu-resume.pdf%}){:target="_blank"}
 {: .prompt-tip }
