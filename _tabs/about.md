@@ -27,9 +27,9 @@ Senior Software Engineer
 **Responsibilities**
 - Building scalable backend infrastructure and services for a cross-blockchain monitoring solution. That includes data ingestion from various blockchains; data processing to extract logs, metrics, and traces; alerting and monitoring etc.
 - Taking ownership of new features from design to implementation.
+- Creating and managing cloud infrastructure running on Kubernetes.
 - Focusing on code quality and efficient development processes.
 - Learning about the Web3 ecosystem and trying to identify solvable problems for the developers in this space.
-- Creating and managing cloud infrastructure running on Kubernetes.
 
 **Key achievements**
 - Transaction explorer - built a public feature of Blocktorch, similar to Etherscan, but better. It was featured in an Alchemy course focused on Account Abstraction.
@@ -63,6 +63,7 @@ Full Stack Software Engineer
 - Lead several new features, e.g. logs search, AppSync logs ingestion, automated infrastructure insights etc.
 - Built an admin panel for internal use.
 - Many high-impact code and infrastructure improvements. For example, reduced our Lambda costs by up to 30% by removing redundant executions. In another case, took the initiative to reduce a microservice's error rate by more than 1000%.
+- Implemented Shape Up working methodology by Basecamp
 - Completed an AWS certification and learned to use a large number of AWS services.
 - Improved my teamwork skills and my ability to write code that is reliable and scalable.
 
