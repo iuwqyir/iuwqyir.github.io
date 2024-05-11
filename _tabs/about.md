@@ -109,7 +109,7 @@ _October 2021 - Present_
 
 ![Frames](/assets/img/logos/frames.png){: .left w="150" h="150" } [Frames](https://frames.murall.art/){:target="_blank"} is a really unique side-project with the MurAll team that I am really proud of. Created in the midst of the 2021 NFT bull run with PFPs and copy-cat projects pumping, this was something different and exciting.  
 
-A **FRAME** is a dynamic NFT that you can wrap around your other existing NFTs. It will change size based on the dimensions of the NFT you combine it with and will wrap around it, enchancing its look. It even works cross-chain!
+A **FRAME** is a dynamic NFT that you can wrap around your other existing NFTs. It will change size based on the dimensions of the NFT you combine it with and will wrap around it, enhancing its look. It even works cross-chain!
 
 I mainly took care of the backend infrastructure and website. Similarly to MurAll, the backend is built on AWS serverless infrastructure and the website is a React application.
 
