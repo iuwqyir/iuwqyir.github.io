@@ -27,11 +27,11 @@ Another cool feature is that Github will give you a CI/CD pipeline out of the bo
 
 ## Do I Need to Style My Website?
 You *can*, but you don't *need* to. Jekyll out of the box has some pretty vanilla-looking styling and for some that might be all they need.  
-If you need a bit more, you can choose from a myriad of [themes available online](http://jekyllthemes.org/){:target="_blank"}. They will make your life extremely easy.  
+If you need a bit more, you can choose from a myriad of [themes available online](https://jekyll-themes.com/){:target="_blank"}. They will make your life extremely easy.  
 And if that's not enough, you can always add you own CSS style sheets and even use [Sass](https://sass-lang.com/){:target="_blank"}.
 
 ## How to Create a Free Personal Website
-For this site, I used the [Chirpy](http://jekyllthemes.org/themes/jekyll-theme-chirpy/){:target="_blank"} theme. It gives me all the pages I need, search functionality, clean design and light/dark mode out of the box. We'll do this tutorial with the Chirpy theme, so it might differ a little bit if you don't use a theme, or use a different one. But overall it should be pretty similar.
+For this site, I used the [Chirpy](https://jekyll-themes.com/cotes2020/jekyll-theme-chirpy){:target="_blank"} theme. It gives me all the pages I need, search functionality, clean design and light/dark mode out of the box. We'll do this tutorial with the Chirpy theme, so it might differ a little bit if you don't use a theme, or use a different one. But overall it should be pretty similar.
 
 1. Make sure you have the necessary dependencies installed.  
 If you don't care about running it locally, you can skip this step.  
