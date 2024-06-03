@@ -32,7 +32,7 @@ Senior Software Engineer
 - Learning about the Web3 ecosystem and trying to identify solvable problems for the developers in this space.
 
 **Key achievements**
-- Transaction explorer - built a public feature of Blocktorch, similar to Etherscan, but better. It was featured in an Alchemy course focused on Account Abstraction.
+- Transaction explorer - built a public feature of Blocktorch, similar to Etherscan, but better. It was featured in an [Alchemy course](https://youtu.be/OglzIgPD-Zw?t=2520){:target="_blank"} focused on Account Abstraction.
 - Built a transaction debugger and simulator for any chain with an RPC connection.
 - Built a custom project-based authentication flow using Supabase Auth. It also included a system of API keys.
 - Designed and implemented a metrics pipeline using TimescaleDB. Everything from reading the blockchain data, extracting and saving metrics from it, and reading it in the UI.
