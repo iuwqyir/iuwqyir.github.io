@@ -3,6 +3,7 @@ title: How to Reduce Docker Image Size
 date: 2024-06-03 16:00:00 +0300
 categories: [Devops]
 tags: [docker, infrastructure, optimization]
+robots: index
 ---
 
 Using Docker images to run your code is a great way to make it portable, scalable and consistent.

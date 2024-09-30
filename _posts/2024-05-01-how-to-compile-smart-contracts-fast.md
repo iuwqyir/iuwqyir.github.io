@@ -3,6 +3,7 @@ title: How to compile EVM smart contracts fast in NodeJS… but it's actually R
 date: 2024-05-01 16:00:00 +0300
 categories: [Web3, Smart Contracts]
 tags: [evm, nodejs, rust, compilation]
+robots: index
 ---
 
 Smart contract compilation is not something you might come across often, but when you do, you want it to be fast. Especially if it's part of a request a user makes.  

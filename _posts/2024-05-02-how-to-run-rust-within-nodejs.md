@@ -3,6 +3,7 @@ title: How to run Rust code within NodeJS
 date: 2024-05-02 16:00:00 +0300
 categories: [Web3, Smart Contracts]
 tags: [nodejs, rust]
+robots: index
 ---
 
 Sometimes you just feel that need for speed…  

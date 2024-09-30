@@ -3,6 +3,7 @@ title: How to Create a Free Personal Website
 date: 2024-05-13 16:00:00 +0300
 categories: [Web development]
 tags: [hosting, website, free, jekyll, github pages]
+robots: index
 ---
 
 So you're thinking about creating a personal website?  
